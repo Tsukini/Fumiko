@@ -9,8 +9,8 @@ The objective of the game is... there's no objective, just go down and kill the 
 
 ## Install
 
-To install the game, download the [APK](...) and transfer to your Android Device. 
-The game's screen size is (**800x480**).
+To install the game, download the [APK](https://github.com/Tsukini/Fumiko/blob/master/out/production/Fumiko-android/Fumiko-android.apk?raw=true) and transfer to your Android Device. 
+The game's screen size is (**800x480**), we have no idea how to change it in each device, sorry.
 
 
 
